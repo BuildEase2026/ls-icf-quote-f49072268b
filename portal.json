@@ -1,0 +1,377 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Earlswood Homes - David Smith",
+  "job": "Land at Lindsell, CM6 3QL - 3 detached houses (plots 1, 2 + 3)",
+  "number_prefix": "ES26-091",
+  "status": "QUOTATION",
+  "revision": "",
+  "model_title": "ES26-091 Land at Lindsell, CM6 3QL - 3 detached houses (plots 1, 2 + 3) - Quotation"
+ },
+ "default_view": "stage-1",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "House type A (plots 1 + 3)",
+   "desc": "Two-storey 4-bed (plots 1 + 3): 267 Nudura 6.6in XR35 forms per house, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,422 eaves and the 53 deg cross-wing gables; the rear balcony gable glazed to the apex (ICF cut to the rake). Open ground-floor wing end: 178x102x19 UB steel (preliminary) carrying the balcony, housed in the ICF. Slab, first floor, trussed roof (35 deg hipped main, 53 deg wing) and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "House type B (plot 2)",
+   "desc": "Chalet 4-bed (plot 2), rooms in the roof: 243 forms. ICF from the foundation to the 3,508 eaves and up the 52 deg cross-wing gables front and rear; the rear gable glazed to the apex (ICF cut to the rake) over a 5.58 m slider under a 254x146x43 UB steel (preliminary) housed in the ICF. Dormers are roof joinery (by others). Slab, first floor, trussed roof and windows as design assumptions.",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 2,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 2,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 2,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 2,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "House type A (plots 1 + 3)",
+   "desc": "Two-storey 4-bed (plots 1 + 3): 267 Nudura 6.6in XR35 forms per house, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,422 eaves and the 53 deg cross-wing gables; the rear balcony gable glazed to the apex (ICF cut to the rake). Open ground-floor wing end: 178x102x19 UB steel (preliminary) carrying the balcony, housed in the ICF. Slab, first floor, trussed roof (35 deg hipped main, 53 deg wing) and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 7021620
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "House type B (plot 2)",
+   "desc": "Chalet 4-bed (plot 2), rooms in the roof: 243 forms. ICF from the foundation to the 3,508 eaves and up the 52 deg cross-wing gables front and rear; the rear gable glazed to the apex (ICF cut to the rake) over a 5.58 m slider under a 254x146x43 UB steel (preliminary) housed in the ICF. Dormers are roof joinery (by others). Slab, first floor, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 6849920
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Nudura proposal for all three plots (supply of the ICF materials and accessories, the BuildEase pre-cut service, alignment hire and haulage), with the pallet stack sheets and artic load plans for each house type.",
+   "zip": {
+    "file": "downloads/ES26-091 Quotation.zip",
+    "bytes": 732566,
+    "count": 5
+   },
+   "docs": [
+    {
+     "id": "ES26-091-LP-01A",
+     "title": "Artic Load Plans (per house) - House type A (plots 1 + 3)",
+     "file": "docs/quote/ES26-091-LP-01A Artic Load Plans (per house) - House type A (plots 1 + 3).pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-091-LP-01A.png",
+     "bytes": 33819,
+     "number": "ES26-091-LP-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-LP-01B",
+     "title": "Artic Load Plans (per house) - House type B (plot 2)",
+     "file": "docs/quote/ES26-091-LP-01B Artic Load Plans (per house) - House type B (plot 2).pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-091-LP-01B.png",
+     "bytes": 33504,
+     "number": "ES26-091-LP-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-PR-01",
+     "title": "Nudura Proposal - plots 1, 2 + 3",
+     "file": "docs/quote/ES26-091-PR-01 Nudura Proposal - plots 1, 2 + 3.pdf",
+     "pages": 4,
+     "thumb": "thumbs/ES26-091-PR-01.png",
+     "bytes": 369931,
+     "number": "ES26-091-PR-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-PS-01A",
+     "title": "Pallet Stack Sheets (per house) - House type A (plots 1 + 3)",
+     "file": "docs/quote/ES26-091-PS-01A Pallet Stack Sheets (per house) - House type A (plots 1 + 3).pdf",
+     "pages": 14,
+     "thumb": "thumbs/ES26-091-PS-01A.png",
+     "bytes": 223526,
+     "number": "ES26-091-PS-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-PS-01B",
+     "title": "Pallet Stack Sheets (per house) - House type B (plot 2)",
+     "file": "docs/quote/ES26-091-PS-01B Pallet Stack Sheets (per house) - House type B (plot 2).pdf",
+     "pages": 12,
+     "thumb": "thumbs/ES26-091-PS-01B.png",
+     "bytes": 205376,
+     "number": "ES26-091-PS-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "typeA",
+   "title": "House type A (plots 1 + 3)",
+   "note": "House type A (plots 1 + 3) - the ICF general arrangements, wall elevations and a section through the glazed peaked gable.",
+   "zip": {
+    "file": "downloads/ES26-091 House type A (plots 1 + 3).zip",
+    "bytes": 375041,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-091-GA-01A",
+     "title": "Foundation ICF General Arrangement - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-GA-01A Foundation ICF General Arrangement - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-01A.png",
+     "bytes": 56232,
+     "number": "ES26-091-GA-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-GA-02A",
+     "title": "Ground Floor ICF General Arrangement - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-GA-02A Ground Floor ICF General Arrangement - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-02A.png",
+     "bytes": 59861,
+     "number": "ES26-091-GA-02A",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-GA-03A",
+     "title": "First Floor + Gables ICF General Arrangement - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-GA-03A First Floor + Gables ICF General Arrangement - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-03A.png",
+     "bytes": 60108,
+     "number": "ES26-091-GA-03A",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-EL-01A",
+     "title": "Front and Rear Elevations - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-EL-01A Front and Rear Elevations - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-EL-01A.png",
+     "bytes": 110981,
+     "number": "ES26-091-EL-01A",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-EL-02A",
+     "title": "Side Elevations - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-EL-02A Side Elevations - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-EL-02A.png",
+     "bytes": 111691,
+     "number": "ES26-091-EL-02A",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-SE-01A",
+     "title": "Section A-A through the glazed peaked gable - House type A (plots 1 + 3)",
+     "file": "docs/typeA/ES26-091-SE-01A Section A-A through the glazed peaked gable - House type A (plots 1 + 3).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-SE-01A.png",
+     "bytes": 67717,
+     "number": "ES26-091-SE-01A",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "typeB",
+   "title": "House type B (plot 2)",
+   "note": "House type B (plot 2) - the ICF general arrangements, wall elevations and a section through the glazed peaked gable.",
+   "zip": {
+    "file": "downloads/ES26-091 House type B (plot 2).zip",
+    "bytes": 366720,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-091-GA-01B",
+     "title": "Foundation ICF General Arrangement - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-GA-01B Foundation ICF General Arrangement - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-01B.png",
+     "bytes": 56179,
+     "number": "ES26-091-GA-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-GA-02B",
+     "title": "Ground Floor ICF General Arrangement - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-GA-02B Ground Floor ICF General Arrangement - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-02B.png",
+     "bytes": 60260,
+     "number": "ES26-091-GA-02B",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-GA-03B",
+     "title": "First Floor + Gables ICF General Arrangement - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-GA-03B First Floor + Gables ICF General Arrangement - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-GA-03B.png",
+     "bytes": 58021,
+     "number": "ES26-091-GA-03B",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-EL-01B",
+     "title": "Front and Rear Elevations - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-EL-01B Front and Rear Elevations - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-EL-01B.png",
+     "bytes": 102798,
+     "number": "ES26-091-EL-01B",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-EL-02B",
+     "title": "Side Elevations - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-EL-02B Side Elevations - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-EL-02B.png",
+     "bytes": 112030,
+     "number": "ES26-091-EL-02B",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-091-SE-01B",
+     "title": "Section A-A through the glazed peaked gable - House type B (plot 2)",
+     "file": "docs/typeB/ES26-091-SE-01B Section A-A through the glazed peaked gable - House type B (plot 2).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-091-SE-01B.png",
+     "bytes": 67518,
+     "number": "ES26-091-SE-01B",
+     "view": "stage-1",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": true,
+ "toggles": [
+  {
+   "label": "Roof structure",
+   "materials": [
+    "RoofStruct_*"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2
+   ]
+  },
+  {
+   "label": "First floor",
+   "materials": [
+    "Metal-web joist (indicative)",
+    "Egger Protect P5 deck"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2
+   ]
+  },
+  {
+   "label": "Windows + doors",
+   "materials": [
+    "Glazing (indicative)",
+    "Window frame (indicative)",
+    "Door leaf (indicative)"
+   ],
+   "default": true,
+   "stages": [
+    1,
+    2
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/ES26-091 Land at Lindsell, CM6 3QL - 3 detached houses (plots 1, 2 + 3) - Quotation.zip",
+  "bytes": 1474419,
+  "count": 17,
+  "title": "Download everything"
+ }
+}

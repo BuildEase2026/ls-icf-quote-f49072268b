@@ -1,0 +1,32 @@
+{
+ "job": "Land at Lindsell, CM6 3QL - 3 detached houses (plots 1, 2 + 3)",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "House type A (plots 1 + 3)",
+   "desc": "Two-storey 4-bed (plots 1 + 3): 267 Nudura 6.6in XR35 forms per house, stack joints (red) where the runs are off the Nudura Bond. ICF from the foundation (2 courses below ground) to the 4,422 eaves and the 53 deg cross-wing gables; the rear balcony gable glazed to the apex (ICF cut to the rake). Open ground-floor wing end: 178x102x19 UB steel (preliminary) carrying the balcony, housed in the ICF. Slab, first floor, trussed roof (35 deg hipped main, 53 deg wing) and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 7021620
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "House type B (plot 2)",
+   "desc": "Chalet 4-bed (plot 2), rooms in the roof: 243 forms. ICF from the foundation to the 3,508 eaves and up the 52 deg cross-wing gables front and rear; the rear gable glazed to the apex (ICF cut to the rake) over a 5.58 m slider under a 254x146x43 UB steel (preliminary) housed in the ICF. Dormers are roof joinery (by others). Slab, first floor, trussed roof and windows as design assumptions.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 6849920
+    }
+   ]
+  }
+ ]
+}
